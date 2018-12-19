@@ -3,7 +3,7 @@
 ## Introduction
 
 Le but de cette librairie est de pouvoir générer un widget de recherche aux aides publiques dédiées aux entreprises françaises
-Le données sont gérées par le service [https://www.aides-entreprises.fr](https://www.aides-entreprises.fr)
+Les données sont gérées par le service [https://www.aides-entreprises.fr](https://www.aides-entreprises.fr)
 Ce widget est compatible avec les navigateurs web et il est aussi possible de l'utiliser dans une application mobile.
 Les libraries [Nicolas Gallagher](https://github.com/necolas) et [Expo](https://expo.io/) sont utilisées
 
