@@ -1,0 +1,9 @@
+{
+  "short_name": "Aides Entreprises",
+  "name": "Aides Entreprises widget react open source",
+  
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
